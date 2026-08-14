@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/rdivu1605-07/Divakar_07/tree/master/0746-min-cost-climbing-stairs) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rdivu1605-07/Divakar_07/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rdivu1605-07/Divakar_07/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rdivu1605-07/Divakar_07/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
@@ -75,5 +78,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
