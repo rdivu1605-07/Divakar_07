@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0151-reverse-words-in-a-string) |
 | [0791-custom-sort-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0791-custom-sort-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rdivu1605-07/Divakar_07/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rdivu1605-07/Divakar_07/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
