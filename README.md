@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rdivu1605-07/Divakar_07/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/rdivu1605-07/Divakar_07/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
