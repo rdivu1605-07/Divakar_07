@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/rdivu1605-07/Divakar_07/tree/master/0176-second-highest-salary) |
+| [0627-swap-sex-of-employees](https://github.com/rdivu1605-07/Divakar_07/tree/master/0627-swap-sex-of-employees) |
 ## Combinatorics
 |  |
 | ------- |
