@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rdivu1605-07/Divakar_07/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-sex-of-employees](https://github.com/rdivu1605-07/Divakar_07/tree/master/0627-swap-sex-of-employees) |
 | [1280-students-and-examinations](https://github.com/rdivu1605-07/Divakar_07/tree/master/1280-students-and-examinations) |
+| [3436-find-valid-emails](https://github.com/rdivu1605-07/Divakar_07/tree/master/3436-find-valid-emails) |
 ## Combinatorics
 |  |
 | ------- |
