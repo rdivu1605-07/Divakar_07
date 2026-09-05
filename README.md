@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rdivu1605-07/Divakar_07/tree/master/0746-min-cost-climbing-stairs) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [1386-cinema-seat-allocation](https://github.com/rdivu1605-07/Divakar_07/tree/master/1386-cinema-seat-allocation) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rdivu1605-07/Divakar_07/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rdivu1605-07/Divakar_07/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rdivu1605-07/Divakar_07/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [1386-cinema-seat-allocation](https://github.com/rdivu1605-07/Divakar_07/tree/master/1386-cinema-seat-allocation) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rdivu1605-07/Divakar_07/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rdivu1605-07/Divakar_07/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rdivu1605-07/Divakar_07/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0791-custom-sort-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
