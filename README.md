@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rdivu1605-07/Divakar_07/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rdivu1605-07/Divakar_07/tree/master/0326-power-of-three) |
 ## String
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rdivu1605-07/Divakar_07/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0234-palindrome-linked-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rdivu1605-07/Divakar_07/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Depth-First Search
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rdivu1605-07/Divakar_07/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
