@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/rdivu1605-07/Divakar_07/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/rdivu1605-07/Divakar_07/tree/master/0131-palindrome-partitioning) |
 | [0746-min-cost-climbing-stairs](https://github.com/rdivu1605-07/Divakar_07/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rdivu1605-07/Divakar_07/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0151-reverse-words-in-a-string) |
 | [0791-custom-sort-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0791-custom-sort-string) |
+| [0940-distinct-subsequences-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rdivu1605-07/Divakar_07/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rdivu1605-07/Divakar_07/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rdivu1605-07/Divakar_07/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
