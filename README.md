@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [1386-cinema-seat-allocation](https://github.com/rdivu1605-07/Divakar_07/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rdivu1605-07/Divakar_07/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rdivu1605-07/Divakar_07/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rdivu1605-07/Divakar_07/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rdivu1605-07/Divakar_07/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rdivu1605-07/Divakar_07/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/rdivu1605-07/Divakar_07/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/3904-smallest-stable-index-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rdivu1605-07/Divakar_07/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
