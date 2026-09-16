@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rdivu1605-07/Divakar_07/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rdivu1605-07/Divakar_07/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rdivu1605-07/Divakar_07/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rdivu1605-07/Divakar_07/tree/master/0326-power-of-three) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rdivu1605-07/Divakar_07/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rdivu1605-07/Divakar_07/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rdivu1605-07/Divakar_07/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/rdivu1605-07/Divakar_07/tree/master/3870-count-commas-in-range) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rdivu1605-07/Divakar_07/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rdivu1605-07/Divakar_07/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rdivu1605-07/Divakar_07/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/rdivu1605-07/Divakar_07/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
