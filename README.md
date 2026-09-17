@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/rdivu1605-07/Divakar_07/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rdivu1605-07/Divakar_07/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rdivu1605-07/Divakar_07/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rdivu1605-07/Divakar_07/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rdivu1605-07/Divakar_07/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rdivu1605-07/Divakar_07/tree/master/0131-palindrome-partitioning) |
 | [0746-min-cost-climbing-stairs](https://github.com/rdivu1605-07/Divakar_07/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rdivu1605-07/Divakar_07/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Math
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [1386-cinema-seat-allocation](https://github.com/rdivu1605-07/Divakar_07/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rdivu1605-07/Divakar_07/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rdivu1605-07/Divakar_07/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rdivu1605-07/Divakar_07/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -114,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rdivu1605-07/Divakar_07/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rdivu1605-07/Divakar_07/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
