@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0148-sort-list) |
 | [0791-custom-sort-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0148-sort-list) |
 | [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0148-sort-list) |
 | [0327-count-of-range-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/0327-count-of-range-sum) |
 ## Treap
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rdivu1605-07/Divakar_07/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0148-sort-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rdivu1605-07/Divakar_07/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Depth-First Search
