@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/rdivu1605-07/Divakar_07/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/rdivu1605-07/Divakar_07/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/rdivu1605-07/Divakar_07/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rdivu1605-07/Divakar_07/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rdivu1605-07/Divakar_07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/rdivu1605-07/Divakar_07/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/rdivu1605-07/Divakar_07/tree/master/0301-remove-invalid-parentheses) |
+| [0392-is-subsequence](https://github.com/rdivu1605-07/Divakar_07/tree/master/0392-is-subsequence) |
 | [0791-custom-sort-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0791-custom-sort-string) |
 | [0856-score-of-parentheses](https://github.com/rdivu1605-07/Divakar_07/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rdivu1605-07/Divakar_07/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/rdivu1605-07/Divakar_07/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
