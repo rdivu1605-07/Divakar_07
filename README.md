@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rdivu1605-07/Divakar_07/tree/master/0746-min-cost-climbing-stairs) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/rdivu1605-07/Divakar_07/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/rdivu1605-07/Divakar_07/tree/master/1051-height-checker) |
 | [1386-cinema-seat-allocation](https://github.com/rdivu1605-07/Divakar_07/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rdivu1605-07/Divakar_07/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/rdivu1605-07/Divakar_07/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/rdivu1605-07/Divakar_07/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/rdivu1605-07/Divakar_07/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/rdivu1605-07/Divakar_07/tree/master/1051-height-checker) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rdivu1605-07/Divakar_07/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rdivu1605-07/Divakar_07/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
@@ -301,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/rdivu1605-07/Divakar_07/tree/master/0976-largest-perimeter-triangle) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rdivu1605-07/Divakar_07/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rdivu1605-07/Divakar_07/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
