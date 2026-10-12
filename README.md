@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rdivu1605-07/Divakar_07/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/rdivu1605-07/Divakar_07/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rdivu1605-07/Divakar_07/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rdivu1605-07/Divakar_07/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/rdivu1605-07/Divakar_07/tree/master/0856-score-of-parentheses) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rdivu1605-07/Divakar_07/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/rdivu1605-07/Divakar_07/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rdivu1605-07/Divakar_07/tree/master/1051-height-checker) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rdivu1605-07/Divakar_07/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
