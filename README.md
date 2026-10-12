@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rdivu1605-07/Divakar_07/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/rdivu1605-07/Divakar_07/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/rdivu1605-07/Divakar_07/tree/master/0326-power-of-three) |
 | [0976-largest-perimeter-triangle](https://github.com/rdivu1605-07/Divakar_07/tree/master/0976-largest-perimeter-triangle) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
