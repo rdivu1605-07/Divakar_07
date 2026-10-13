@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/rdivu1605-07/Divakar_07/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/rdivu1605-07/Divakar_07/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/rdivu1605-07/Divakar_07/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rdivu1605-07/Divakar_07/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rdivu1605-07/Divakar_07/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0940-distinct-subsequences-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rdivu1605-07/Divakar_07/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/rdivu1605-07/Divakar_07/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/rdivu1605-07/Divakar_07/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rdivu1605-07/Divakar_07/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rdivu1605-07/Divakar_07/tree/master/3568-minimum-moves-to-clean-the-classroom) |
