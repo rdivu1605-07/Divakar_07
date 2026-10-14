@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rdivu1605-07/Divakar_07/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rdivu1605-07/Divakar_07/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/rdivu1605-07/Divakar_07/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rdivu1605-07/Divakar_07/tree/master/0326-power-of-three) |
 | [0976-largest-perimeter-triangle](https://github.com/rdivu1605-07/Divakar_07/tree/master/0976-largest-perimeter-triangle) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
@@ -58,14 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rdivu1605-07/Divakar_07/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rdivu1605-07/Divakar_07/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rdivu1605-07/Divakar_07/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/rdivu1605-07/Divakar_07/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -322,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rdivu1605-07/Divakar_07/tree/master/0225-implement-stack-using-queues) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rdivu1605-07/Divakar_07/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rdivu1605-07/Divakar_07/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
