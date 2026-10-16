@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0095-unique-binary-search-trees-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rdivu1605-07/Divakar_07/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rdivu1605-07/Divakar_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rdivu1605-07/Divakar_07/tree/master/0095-unique-binary-search-trees-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rdivu1605-07/Divakar_07/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rdivu1605-07/Divakar_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rdivu1605-07/Divakar_07/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rdivu1605-07/Divakar_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -338,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rdivu1605-07/Divakar_07/tree/master/0292-nim-game) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rdivu1605-07/Divakar_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rdivu1605-07/Divakar_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
