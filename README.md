@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/rdivu1605-07/Divakar_07/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/rdivu1605-07/Divakar_07/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/rdivu1605-07/Divakar_07/tree/master/1280-students-and-examinations) |
+| [1965-employees-with-missing-information](https://github.com/rdivu1605-07/Divakar_07/tree/master/1965-employees-with-missing-information) |
 | [3436-find-valid-emails](https://github.com/rdivu1605-07/Divakar_07/tree/master/3436-find-valid-emails) |
 ## Combinatorics
 |  |
